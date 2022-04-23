@@ -33,6 +33,28 @@
           }
         }
       }
+    },
+    "0b9035f36ab2674d2e267652347ba5e2916bb03629a5125c9d8c762132893eab": {
+      "address": "0x210110adF5cE341F77356bf0317d0e2d199A76E7",
+      "txHash": "0x456d8b52ac3ebe8ebe7d1c70d029b8484a132154b0935ec497e98c9a175a7f4d",
+      "layout": {
+        "storage": [
+          {
+            "label": "val",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint256",
+            "contract": "BoxV2",
+            "src": "contracts/BoxV2.sol:5"
+          }
+        ],
+        "types": {
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          }
+        }
+      }
     }
   }
 }
